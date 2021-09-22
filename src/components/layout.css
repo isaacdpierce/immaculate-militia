@@ -1,5 +1,7 @@
-.main-content {
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@100;300;700&display=swap');
 
+.main-content {
+  font-family: 'Gothic A1', sans-serif;
 }
 
 .main-text-content {
@@ -30,6 +32,7 @@
   }
 
   .main-text-content {
+    font-family: 'Gothic A1', sans-serif;
     position: relative;
     max-width: 100vw;
     margin-top: 50vh;
