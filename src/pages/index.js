@@ -37,6 +37,11 @@ const paragraphStyles = {
   fontWeight: 300
 }
 
+const indentParagraph = {
+  ...paragraphStyles,
+  marginLeft: 40
+}
+
 const listStyles = {
   marginBottom: 96,
   paddingLeft: 0,
@@ -107,7 +112,7 @@ const IndexPage = () => {
           <span style={headingSubtitleStyles}>The most powerful prayer of all</span>
           </h3>
           <p style={paragraphStyles}>
-          If possible, attend Daily Holy Mass and offer the intentions stated above to the Precious Body, Blood and Divinity of the Blessed Sacrament at the moment of consecration.
+          If possible, attend Daily Holy Mass and offer the intentions stated above to the Precious Body, Blood and Divinity of Our Lord the Blessed Sacrament at the moment of consecration.
           </p>
           <h3 style={headingStyles}>The Rosary</h3>
           <p style={paragraphStyles}>Dedicate your daily Rosary and any other daily prayers the intentions stated above.
@@ -124,23 +129,45 @@ const IndexPage = () => {
           <p style={paragraphStyles}>
 
 
-I. O my Jesus, you have said: “Truly I say to you, ask and you will receive, seek and you will find, knock and it will be opened to you.” Behold I knock, I seek and ask for the grace of helping all parents to have the wisdom and strength to resist the social pressures to take the experimental, abortion-tainted vaccines.
-<br/>
+I. O my Jesus, you have said: “Truly I say to you, ask and you will receive, seek and you will find, knock and it will be opened to you.” Behold I knock, I seek and ask for:
+
+
+</p>
+<p style={indentParagraph}>
+          1) You to guard the spiritual, physical and mental and health of our children. 
+          <br/>
+          <br/>
+          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          <br/>
 <br/>
 Our Father….Hail Mary….Glory Be to the Father….Sacred Heart of Jesus, I place all my trust in you.
-
-</p>
-
-<p style={paragraphStyles}>
-II. O my Jesus, you have said: “Truly I say to you, if you ask anything of the Father in my name, he will give it to you.” Behold, in your name, I ask the Father for the grace of protecting the precious blood of our children from the evil of all present and future vaccine mandates.
-<br/>
-<br/>
-Our Father…Hail Mary….Glory Be To the Father….Sacred Heart of Jesus, I place all my trust in you.
-</p>
+  </p>
 
 <p style={paragraphStyles}>
-III. O my Jesus, you have said: “Truly I say to you, heaven and earth will pass away but my words will not pass away.” Encouraged by your infallible words I now ask for the grace of…..(here name your request) Our Father….Hail Mary….Glory Be to the Father…Sacred Heart of Jesus, I place all my trust in you.
+II. O my Jesus, you have said: “Truly I say to you, if you ask anything of the Father in my name, he will give it to you.” Behold, in your name, I ask the Father for:
 </p>
+<p style={indentParagraph}>
+          1) You to guard the spiritual, physical and mental and health of our children. 
+          <br/>
+          <br/>
+          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          <br/>
+<br/>
+Our Father….Hail Mary….Glory Be to the Father….Sacred Heart of Jesus, I place all my trust in you.
+  </p>
+
+<p style={paragraphStyles}>
+III. O my Jesus, you have said: “Truly I say to you, heaven and earth will pass away but my words will not pass away.” Encouraged by your infallible words I now ask for:
+</p>
+        <p style={indentParagraph}>
+          1) You to guard the spiritual, physical and mental and health of our children. 
+          <br/>
+          <br/>
+          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          <br/>
+<br/>
+Our Father….Hail Mary….Glory Be to the Father….Sacred Heart of Jesus, I place all my trust in you.
+  </p>
 
 <p style={paragraphStyles}>
 O Sacred Heart of Jesus, for whom it is impossible not to have compassion on the afflicted, have pity on us miserable sinners and grant us the grace which we ask of you, through the Sorrowful and Immaculate Heart of Mary, your tender Mother and ours.
