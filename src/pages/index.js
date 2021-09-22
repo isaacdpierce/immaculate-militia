@@ -112,7 +112,7 @@ const IndexPage = () => {
           <span style={headingSubtitleStyles}>The most powerful prayer of all</span>
           </h3>
           <p style={paragraphStyles}>
-          If possible, attend Daily Holy Mass and offer the intentions stated above to the Precious Body, Blood and Divinity of Our Lord in the Blessed Sacrament at the moment of consecration.
+          If possible, attend daily Holy Mass and offer the intentions stated above to the Precious Body, Blood and Divinity of Our Lord in the Blessed Sacrament at the moment of consecration.
           </p>
           <h3 style={headingStyles}>The Rosary</h3>
           <p style={paragraphStyles}>Dedicate your daily Rosary and any other daily prayers the intentions stated above.
