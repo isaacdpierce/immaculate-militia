@@ -94,7 +94,7 @@ const IndexPage = () => {
             <br />
           </h2>
           <p style={paragraphStyles}>
-          1) To guard the spiritual, physical and mental and health of our children in these diabolical times.
+          1) To guard the spiritual, physical and mental health of our children in these diabolical times.
           <br/>
           <br/>
           2) For the wisdom, strength and perseverance of all the parents who continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines.
