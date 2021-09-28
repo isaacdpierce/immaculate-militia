@@ -115,7 +115,7 @@ const IndexPage = () => {
           If possible, attend daily Holy Mass and offer the intentions stated above to the Precious Body, Blood and Divinity of Our Lord in the Blessed Sacrament at the moment of consecration.
           </p>
           <h3 style={headingStyles}>The Rosary</h3>
-          <p style={paragraphStyles}>Dedicate your daily Rosary and any other daily prayers the intentions stated above.
+          <p style={paragraphStyles}>Dedicate your daily Rosary and any other daily prayers to the intentions stated above.
           <br />
           <br />
           God grant us the strength to resist the social pressures and medical tyranny rampant in our modern world.
