@@ -159,7 +159,7 @@ I. O my Jesus, you have said: “Truly I say to you, ask and you will receive, s
           1) You to guard the spiritual, physical and mental and health of our children. 
           <br/>
           <br/>
-          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          2) The wisdom, strength and perseverance of the parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
           <br/>
           <br/>
           3)To open hearts, minds and eyes to the truth of this pandemic and these experimental vaccines.
@@ -175,7 +175,7 @@ II. O my Jesus, you have said: “Truly I say to you, if you ask anything of the
           1) You to guard the spiritual, physical and mental and health of our children. 
           <br/>
           <br/>
-          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          2) The wisdom, strength and perseverance of the parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
           <br/>
           <br/>
           3)To open hearts, minds and eyes to the truth of this pandemic and these experimental vaccines.
@@ -191,7 +191,7 @@ III. O my Jesus, you have said: “Truly I say to you, heaven and earth will pas
           1) You to guard the spiritual, physical and mental and health of our children. 
           <br/>
           <br/>
-          2) The wisdom, strength and perseverance of the all parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
+          2) The wisdom, strength and perseverance of the parents. That they continue to resist the social pressures of injecting themselves and their children with experimental, abortion-tainted vaccines. 
           <br/>
           <br/>
           3)To open hearts, minds and eyes to the truth of this pandemic and these experimental vaccines.
